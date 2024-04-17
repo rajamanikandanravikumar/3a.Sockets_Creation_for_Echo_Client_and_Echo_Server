@@ -34,7 +34,8 @@ while True:
 ``` 
 ## OUPUT
 ### client:
-![image](https://github.com/AshwinKumar-Saveetha/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/155129814/0613a19d-ab5f-495a-9a14-79d021e4d318)
+![Screenshot 2024-04-17 135842](https://github.com/AshwinKumar-Saveetha/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/145742839/c2ee41b7-8251-412a-82a2-5fc2f52d752a)
+
 
 ### server:
 ![image](https://github.com/AshwinKumar-Saveetha/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/155129814/094d8ba2-3c67-4feb-aa54-a6a666bfb42b)
