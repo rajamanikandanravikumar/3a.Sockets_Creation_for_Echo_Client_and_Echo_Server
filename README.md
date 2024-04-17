@@ -10,8 +10,8 @@ Sockets Links.
 3. Send message to the client and receive the message from the client using the Socket module in
  server .
 4. Send and receive the message using the send function in socket.
-## PROGRAM
-# CLIENT:
+# PROGRAM
+## CLIENT:
 ```
 import socket
 s=socket.socket()
@@ -21,7 +21,7 @@ while True:
     s.send(msg.encode())
     print("Server > ",s.recv(1024).decode())
 ```
-# SERVER:
+## SERVER:
 ```
 import socket
 s=socket.socket()
@@ -32,7 +32,7 @@ while True:
     ClientMessage=c.recv(1024).decode()
     c.send(ClientMessage.encode())
 ```
-## OUPUT
+## OUTPUT
 # CLIENT:
 ![321079218-0613a19d-ab5f-495a-9a14-79d021e4d318](https://github.com/rajamanikandanravikumar/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/145742839/6ac49f4d-c4ff-4365-ac82-f161866b8866)
 
